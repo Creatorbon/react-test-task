@@ -2,7 +2,7 @@
 
 # react-portfolio-starter
 React test task 
-Small web app with ability to search on YouTube, show the selected results on a (YouTube) player and save it as history into a databas
+Small web app with ability to search on YouTube, show the selected results on a (YouTube) player and save it as history
 
 # Start App
 Clone repo, install, cd into folder and run:
