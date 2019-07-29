@@ -9,6 +9,7 @@ Clone repo, install, cd into folder and run:
 ```git
 npm install
 npm start
+```
 or
 ```git
 yarn install
